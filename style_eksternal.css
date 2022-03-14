@@ -1,3 +1,4 @@
+/* CSS reset */
 *{
   padding: 0;
   margin: 0;
@@ -6,6 +7,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
+
+/* Header */
 
 header {
   min-height: 80px;
@@ -23,6 +26,8 @@ h1 i {
   color: #6d6a6b;
 }
 
+/* Navbar */
+
 nav {
   background: #20a759;
   color: #fff;
@@ -39,6 +44,7 @@ nav a:hover {
 }
 
 /* ID Selector */
+
 #intro {
   background: #418fb1;
   border: 1px solid #099249;
@@ -49,7 +55,10 @@ nav a:hover {
   text-align: left;
   border: 0;
   color: #fff;
-} /* Class Selector */
+} 
+
+/* Class Selector */
+
 .button {
   padding: 15px 20px;
   background: #bebcbd;
