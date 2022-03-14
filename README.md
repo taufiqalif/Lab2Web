@@ -35,7 +35,7 @@ Cascading Style Sheet (CSS) merupakan aturan untuk mengatur beberapa komponen da
         <!-- CSS ID Selector -->
         <div id="intro">
           <h1>Hello World</h1>
-            <p style="text-align: center; color: #ccd8e4;">Kami sedang belajar HTML dan CSS dasar, pada mata kuliah <b>Pemrograman Web</b> di <i>Universitas Pelita
+            <p>Kami sedang belajar HTML dan CSS dasar, pada mata kuliah <b>Pemrograman Web</b> di <i>Universitas Pelita
             Bangsa</i>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
             tag-tag dasar HTML dan CSS.</p>
 
@@ -47,3 +47,8 @@ Cascading Style Sheet (CSS) merupakan aturan untuk mengatur beberapa komponen da
 maka akan tampil sebagai berikut
 
 ![02.png](img/02.png)
+
+3. menambahkan deklarasi CSS internal
+
+![03.png](img/03.png)
+
