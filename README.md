@@ -50,5 +50,46 @@ maka akan tampil sebagai berikut
 
 3. menambahkan deklarasi CSS internal
 
+Internal CSS adalah kode CSS yang ditulis dalam tag <style> dan lokasinya berada pada bagian atas header file HTML. Internal CSS digunakan untuk membuat custom khusus dalam satu halaman website sehingga halaman lain tidak terpengaruh.
+
 ![03.png](img/03.png)
+
+![04.png](img/04.png)
+
+4. menambahkan deklarasi CSS inline 
+
+Inline CSS adalah memasukan kode CSS yang ditulis secara langsung pada setiap atribut HTML. Jadi setiap atribut memiliki style CSS yang berbeda tergantung kebutuhan . Inline CSS ini tergolong kurang efisien jika dibandingkan jenis CSS untuk website lainnya
+
+        <p style="text-align: center; color: #ccd8e4;">
+
+![05.png](img/05.png)
+
+sehingga menghasilkan 
+
+![06.png](img/06.png)
+
+
+5. membuat CSS eksternal
+
+External CSS adalah kode CSS yang penulisannya dipisah dengan file HTML. Jadi file CSS ditulis pada file sendiri dengan ekstensi .css. File External CSS biasa dituliskan pada bagian <head>, jadi setiap halaman website dilakukan pemanggilan file css.
+
+pertama kita membuat file css dengan nama `style_eksternal.css`
+
+        <link rel="stylesheet" href="style_eksternal.css" type="text/css">
+
+hubungkan menggunakan tag `link` di dalam header
+
+![08.png](img/08.png)
+
+6. menambhakan CSS selector
+
+CSS selector adalah salah satu rule set dari Css yang fungsinya tidak berbeda jauh dengan namanya (Selector) yakni memilih suatu elemen yang ingin anda beri gaya atau style css. Universal selector berarti memilih semua elemen yang ada pada suatu halaman HTML
+
+![09.png](img/09.png)
+
+kemudian save dan liahat hasil nya sebagai berikut
+
+![10.png](img/10.png)
+
+
 
