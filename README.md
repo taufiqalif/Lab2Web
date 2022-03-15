@@ -96,4 +96,14 @@ kemudian save dan lihat hasil nya sebagai berikut
 ![11.png](img/11.png)
 
 
+### CSS Reset
+
+        *{
+          padding: 0;
+          margin: 0;
+        }
+
+Reset stylesheet adalah kumpulan aturan CSS yang digunakan untuk menghapus pemformatan default elemen HTML browser, menghilangkan potensi inkonsistensi antara browser yang berbeda.
+
+
 
