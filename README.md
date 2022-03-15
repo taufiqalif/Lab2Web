@@ -81,15 +81,19 @@ hubungkan menggunakan tag `link` di dalam header
 
 ![08.png](img/08.png)
 
+maka akan tampil sebagai berikut
+
+![09.png](img/09.png)
+
 6. menambhakan CSS selector
 
 CSS selector adalah salah satu rule set dari Css yang fungsinya tidak berbeda jauh dengan namanya (Selector) yakni memilih suatu elemen yang ingin anda beri gaya atau style css. Universal selector berarti memilih semua elemen yang ada pada suatu halaman HTML
 
-![09.png](img/09.png)
-
-kemudian save dan liahat hasil nya sebagai berikut
-
 ![10.png](img/10.png)
+
+kemudian save dan lihat hasil nya sebagai berikut
+
+![11.png](img/11.png)
 
 
 
