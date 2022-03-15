@@ -105,7 +105,6 @@ kemudian save dan lihat hasil nya sebagai berikut
 
 Reset stylesheet adalah kumpulan aturan CSS yang digunakan untuk menghapus pemformatan default elemen HTML browser, menghilangkan potensi inkonsistensi antara browser yang berbeda.
 
+maka akan tampil sebagai berikut
 
-
-
-
+![Reset-01.png](img/Reset-01.png)
